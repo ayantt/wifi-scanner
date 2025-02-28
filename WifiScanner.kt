@@ -1,4 +1,4 @@
-package wifi.scanner // Replace with your actual package name
+package github.com/ayantt/wifi-scanner
 
 import android.content.Context
 import android.net.wifi.WifiManager
